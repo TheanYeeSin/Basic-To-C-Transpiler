@@ -1,4 +1,4 @@
-# Pseudocode-To-Python-Transpiler
+# Basic-To-C-Transpiler
 
 A transpiler that converts pseudocode to python code
 
